@@ -12,7 +12,7 @@ ext {
 
     libraries = [
             build             : [
-                    androidGradle: 'com.android.tools.build:gradle:3.0.0',
+                    androidGradle: 'com.android.tools.build:gradle:3.0.1',
                     kotlinGradle : "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}"
             ],
             jUnit             : 'junit:junit:4.12',
